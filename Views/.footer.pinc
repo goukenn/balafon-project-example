@@ -1,0 +1,7 @@
+<?php
+// @author: C.A.D. BONDJE DOUE
+// @file: .footer.pinc
+// @date: 20251231 16:31:14
+
+$t->div()->container()->igkcopyright(); 
+

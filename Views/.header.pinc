@@ -1,0 +1,8 @@
+<?php
+// @author: C.A.D. BONDJE DOUE
+// @file: .header.pinc
+// @date: 20251231 16:31:14
+
+igk_google_addfont($doc, "Roboto"); 
+$t->setClass("+google-Roboto"); 
+
